@@ -25,5 +25,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: prabhsimran/cargo-leptos:latest
+          tags: secdrivor/cargo-leptos:latest
           file: ./Dockerfile
